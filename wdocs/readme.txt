@@ -1,0 +1,1 @@
+http://python.usyiyi.cn/documents/django_182/topics/db/models.html
